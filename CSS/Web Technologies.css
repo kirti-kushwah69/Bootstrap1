@@ -1,0 +1,49 @@
+.fs{
+    font-size: 48px;
+    font-style: italic;
+    font-weight: bold;
+}
+.symbol{
+    font-size: 100px;
+    font-weight: bold;
+}
+.fsize{
+    font-size: 40px;
+    /* text-align: center; */
+}
+.reactcolor{
+    color:#61dbfb;
+}
+.angularcolor{
+    color: red;
+}
+.nodecolor{
+    color: green;
+}
+.expresscolor{
+    color: #555;
+}
+.mongocolor{
+    color: #00ed64;
+}
+.htmlcolor{
+    color: #e44d26;
+}
+.csscolor{
+    color: #0071bb;
+}
+.bootstrapcolor{
+    color: #62468b;;
+}
+.jscolor{
+    color: #f7e018;
+}
+.mysqlcolor{
+    color: #f29221;
+}
+.phpcolor{
+    color: #6182b7;
+}
+.laravelcolor{
+    color: #f72c1e;
+}

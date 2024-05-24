@@ -1,0 +1,20 @@
+.col-md-3{
+    background: plum;
+    color: white;
+}
+.col-md-4{
+    background: rgb(101, 231, 101);
+    color: white;
+}
+.col-md-6{
+    background: rgb(224, 134, 153);
+    color: white;
+}
+.col-md-2{
+    background: cadetblue;
+    color: white;
+}
+.col-md-1{
+    background:yellowgreen ;
+    color: white;
+}

@@ -1,0 +1,106 @@
+.weblogo {
+  width: 65px;
+}
+.navbar {
+  background: #000000ba!important;
+}
+.navbar-nav li{
+  padding: 0 10px;
+}
+.navbar-nav li a{
+  color: #fff!important;
+  font-weight: 100;
+  font-size: 20px;
+}
+.a {
+  text-align: center;
+  padding-top: 20px;
+  text-transform: uppercase;
+  font-family: "prague";
+  letter-spacing: 3px;
+  margin-top: 45px;
+  font-size: 35px;
+  margin-bottom: 25px;
+}
+.aa {
+  margin-bottom: 25px;
+}
+.b {
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-right: 5px;
+  text-align: justify;
+}
+.img123 {
+  width: 80%;
+  padding-bottom: 20px;
+}
+.c {
+  background: url(../IMAGE/b3.png);
+  width: 100%;
+  height: 450px;
+  background-position: center;
+  background-size: cover;
+  padding-top: 100px;
+}
+.d {
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-right: 5px;
+  padding-top: 30px;
+  color: white;
+  text-transform: uppercase;
+}
+.e {
+  color: white;
+  line-height: 35px;
+  letter-spacing: 1px;
+  word-spacing: 1px;
+  padding-right: 5px;
+}
+footer {
+  background: #111215;
+  padding: 50px;
+  color: white;
+}
+footer .img1234 {
+  width: 50%;
+  margin-top: 30px;
+}
+.contact {
+  letter-spacing: 3px;
+  font-family: prague;
+  font-size: 36px;
+}
+.pff2 {
+  letter-spacing: 2px;
+}
+.hff3 {
+  letter-spacing: 2px;
+  font-family: prague;
+  font-size: 18px;
+  text-transform: uppercase;
+  margin-top: 35px;
+}
+.email{
+  color: orange;
+  letter-spacing: 1px;
+}
+.org {
+  color: orange;
+  font-size: 35px;
+  margin-right: 8px;
+}
+.foff {
+  background: black;
+  width: 100%;
+  height: 100px;
+}
+.foo {
+  color: white;
+  text-align: center;
+  font-weight: 300;
+  margin-top: 26px;
+}
